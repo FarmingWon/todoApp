@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974001307452",
+    "project_id": "todomate-a74b6",
+    "storage_bucket": "todomate-a74b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974001307452:android:19a9c0320f82f99740e839",
+        "android_client_info": {
+          "package_name": "com.ws.todomate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974001307452-0hrt6omletk171bqp4sjqr1auprk86mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyTopQzM2VSYesf43sJRjbCmB7Rav4Fj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974001307452-0hrt6omletk171bqp4sjqr1auprk86mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
