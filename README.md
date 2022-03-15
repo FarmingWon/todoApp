@@ -10,5 +10,5 @@ create this
 - Splash 
 
 ```
-Hello World
+
 ```
