@@ -1,8 +1,10 @@
 # todoApp
 ## 2022/03/15
-#### Navigation Drawer Update
+- Navigation Drawer Update
+- Logout Button
 
-## 22/03/11 
+## 2022/03/11 
 create this
-- Login Btn
+- Login Button
 - Email join
+- Splash 
