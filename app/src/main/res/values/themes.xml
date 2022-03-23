@@ -2,7 +2,7 @@
     <!-- Base application theme. -->
     //Theme.AppCompat.Light
     //Theme.MaterialComponents.DayNight.NoActionBar
-    <style name="Theme.TodoMate" parent="Theme.MaterialComponents.Light.NoActionBar">
+    <style name="Theme.TodoMate" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Primary brand color. -->
         <item name="colorPrimary">@color/purple_500</item>
         <item name="isLightTheme">true</item>

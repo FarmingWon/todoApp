@@ -8,6 +8,7 @@ import androidx.databinding.DataBindingUtil
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
+import com.ws.todomate.Anonymous
 import com.ws.todomate.MainActivity
 import com.ws.todomate.R
 import com.ws.todomate.databinding.ActivityIdpwactivityBinding
@@ -33,6 +34,7 @@ class IDPWActivity : AppCompatActivity() {
                         // Sign in success, update UI with the signed-in user's information
                         Toast.makeText(this, "로그인 성공", Toast.LENGTH_SHORT).show()
                         val intent = Intent(this, MainActivity::class.java)
+                        Anonymous.anays = false
                         intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
                         startActivity(intent)
                     } else {
