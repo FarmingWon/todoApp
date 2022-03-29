@@ -7,7 +7,10 @@
         <entry key="app/src/main/res/drawable/backbtn.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1395" />
         <entry key="app/src/main/res/drawable/navi_menu.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable/plus_btn.xml" value="0.1395" />
         <entry key="app/src/main/res/drawable/radius.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable/radius_white.xml" value="0.1395" />
+        <entry key="app/src/main/res/drawable/rightbtn.xml" value="0.1395" />
         <entry key="app/src/main/res/drawable/setting.xml" value="0.1395" />
         <entry key="app/src/main/res/layout/activity_after_join.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_copy_main.xml" value="0.19610507246376813" />
@@ -15,11 +18,16 @@
         <entry key="app/src/main/res/layout/activity_idpwactivity.xml" value="0.2561606144559556" />
         <entry key="app/src/main/res/layout/activity_join.xml" value="0.24672763105751813" />
         <entry key="app/src/main/res/layout/activity_login.xml" value="0.2203253483426744" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.28824739809389466" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19614147909967847" />
         <entry key="app/src/main/res/layout/activity_setting.xml" value="0.2652243351590806" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.23533682671536826" />
         <entry key="app/src/main/res/layout/appbar.xml" value="0.2079159771954572" />
+        <entry key="app/src/main/res/layout/fragment_calendar.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/header.xml" value="0.29711520429970567" />
+        <entry key="app/src/main/res/layout/list_item_day.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/list_item_month.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/list_item_todo.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/list_item_todobtn.xml" value="0.335" />
         <entry key="app/src/main/res/layout/navi_menu.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/menu/drawer_layout.xml" value="0.28125" />
         <entry key="app/src/main/res/menu/menu_list.xml" value="0.28125" />
